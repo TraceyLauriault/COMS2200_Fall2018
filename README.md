@@ -111,19 +111,19 @@ The final exam will include a combination of multiple choice and short answer qu
 # Readings & Schedule
 | **Week** 	| **Theme** 	|
 |------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Week 1 (Sept.7) 	| [Introduction - What are Data?](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-1-sept7--Introduction) 	|
-| Week 2 (Sept.14) 	| [Crowdsourcing & Digital Humanitarianism](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-2-sept-14--Crowdsourcing--Digital-Humanitarianism) 	|
+| Week 1 (Sept.7) 	| [Introduction - What are Data?](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-1-sept7--introduction) 	|
+| Week 2 (Sept.14) 	| [Crowdsourcing & Digital Humanitarianism](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-2-sept-14--crowdsourcing--digital-humanitarianism) 	|
 | Week 3 (Sept.21) 	| [Open Data](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-3-sept-21--open-data--guest-lecture-by-darrel-bridge-city-of-ottawa) 	|
-| Week 4 (Sept.28) 	| [Moving, Locating and Sensing You](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-4-sept28--moving-locating-and-sensing-you) 	|
-| Week 5 (Oct.5) 	| [Counting You](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-5-oct5--Counting-You) 	|
-| Week 6 (Oct.12) 	| [Social Media](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-6-oct12--Social-Media) 	|
+| Week 4 (Sept.28) 	| [Moving, Locating and Sensing You](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-4-sept-28---moving-locating-and-sensing-you) 	|
+| Week 5 (Oct.5) 	| [Counting You](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-5-oct-5---counting-you) 	|
+| Week 6 (Oct.12) 	| [Social Media](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-6-oct-12---social-media--guest-lecture-by-Dr.-Merlyna-Lim) 	|
 | Week 7 (Oct.19) 	| [Sorting You](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-7-oct-19---sorting-you)    |
 | Fall Break (Oct.22-26) 	| No Classes 	|
-| Week 8 (Nov.2) 	| [Identifying You](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-8-nov2--Identifying-You) 	|
-| Week 9 (Nov.9) 	| [Watching You](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-9-nov9--Watching-You) 	|
-| Week 10 (Nov.16) 	| [Big Data You](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-10-nov16--Big-Data-You) 	|
-| Week 11 (Nov.23) 	| [Data Brokers](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-11-nov23--Data-Brokers) 	|
-| Week 11 (Nov.30) 	| [Remembering You](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-11-nov30--Remembering-You) 	|
+| Week 8 (Nov.2) 	| [Identifying You](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-8-nov-2--identifying-you) 	|
+| Week 9 (Nov.9) 	| [Watching You](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-9-nov-9---watching-you) 	|
+| Week 10 (Nov.16) 	| [Big Data You](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-10-nov-16--big-data-you) 	|
+| Week 11 (Nov.23) 	| [Data Brokers](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-11-nov-23---data-brokers) 	|
+| Week 11 (Nov.30) 	| [Remembering You](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-12-nov-30--remembering-you) 	|
 | Week 12 (Dec.7) 	| [Critical Data Studies and Review](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-13-dec-7--critical-data-studies-and-review) 	|
 
 
@@ -258,7 +258,7 @@ Select any article from the [**New York Times UpShot**](https://www.nytimes.com/
 
 Sketch a rough draft of your infographic or use some sticky notes on a sheet of paper/table/wall to sort out your ideas or draw something in PowerPoint. Take a picture of the sketch and/or post it notes or include the document you created in PPT in the CULearn Forum, etc. You can also start trying any of the infographic tools listed [here](https://traceyplauriault.ca/dataviz/) or another tool of your choice and post an image of what you created.
 
-## Week 6 (Oct. 12) - Social Media
+## Week 6 (Oct. 12) - Social Media & Guest Lecture by Dr. Merlyna Lim
 In this class, we will be joined by guest lecturer Dr. [Merlyna Lim](https://carleton.ca/sjc/profile/lim-merlyna/).
 
 * Lim, M. (2018). [_Roots, Routes, Routers: Communications and Media of Contemporary Social Movements._](http://journals.sagepub.com/doi/pdf/10.1177/1522637918770419) Journalism & Communication Monographs Series, 20(2): 92-136. 
