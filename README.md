@@ -116,7 +116,7 @@ The final exam will include a combination of multiple choice and short answer qu
 | Week 3 (Sept.21) 	| [Open Data](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-3-sept-21--open-data--guest-lecture-by-darrel-bridge-city-of-ottawa) 	|
 | Week 4 (Sept.28) 	| [Moving, Locating and Sensing You](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-4-sept-28---moving-locating-and-sensing-you) 	|
 | Week 5 (Oct.5) 	| [Counting You](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-5-oct-5---counting-you) 	|
-| Week 6 (Oct.12) 	| [Social Media](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-6-oct-12---social-media--guest-lecture-by-Dr.-Merlyna-Lim) 	|
+| Week 6 (Oct.12) 	| [Social Media](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-6-oct-12---social-media--guest-lecture-by-dr-merlyna-lim) 	|
 | Week 7 (Oct.19) 	| [Sorting You](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-7-oct-19---sorting-you)    |
 | Fall Break (Oct.22-26) 	| No Classes 	|
 | Week 8 (Nov.2) 	| [Identifying You](https://github.com/TraceyLauriault/COMS2200_Fall2018/#week-8-nov-2--identifying-you) 	|
