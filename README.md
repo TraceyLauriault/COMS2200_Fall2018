@@ -106,8 +106,7 @@ The final exam will include a combination of multiple choice and short answer qu
 > RoslingHans_COMS4407_Assignment#
 
 **Late Policy: Submit assignments on time.**
-[Sorting You](https://github.com/TraceyLauriault/COMS2200_Fall2017/#week-5-oct10--Sorting-You)
-| Fall Break (Oct.23-27) 	| No Classes 	|
+
 # Readings & Schedule
 | **Week** 	| **Theme** 	|
 |------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------	|
