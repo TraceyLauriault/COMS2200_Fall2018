@@ -103,7 +103,7 @@ The final exam will include a combination of multiple choice and short answer qu
 > **COMS2200 Big Data and Society**, Submitted to: Dr. Tracey P. Lauriault, **Assignment #**, dd/mm/yyyy, Hans Rosling, 010101010
 * File naming convention:
 
-> RoslingHans_COMS4407_Assignment#
+> RoslingHans_COMS2200_Assignment#
 
 **Late Policy: Submit assignments on time.**
 
